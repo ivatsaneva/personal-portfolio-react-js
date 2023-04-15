@@ -60,10 +60,11 @@ function Meezy() {
                     <div className='project-desc text-base text-center max-w-screen-md mx-auto pb-20 text-sm leading-7'>
                         <p className="pb-5">Make Diamonds Shine Bright Again For The New Generation.</p>
                         
-                        <p>Dileti sells lab-grown diamond jewelry brought to you by the diamond experts at Antwerp, one of the most famous cities for diamond trading.
-                            </p>
-                            <p>Dileti is all about putting the customer first. We know that you don't have time to search the internet or visit every jeweler in town. That's why we've done most of the hard work for you. Our jewels are made in our state-of-the-art facility in Antwerp, so we can guarantee their quality and authenticity.
-                            </p>
+                            <p className="pb-5">Dileti sells lab-grown diamond jewelry brought to the client by the diamond experts at Antwerp, one of the most famous cities for diamond trading. Dileti is all about putting the customer first. They know that the client doesn’t have time to search the internet or visit every jeweler in town. That's why they have done most of the hard work for them. </p>
+
+                            <p>I worked in collaboration with the experts from Dileti to create their new website, I was responsible for the UX/UI design and the development of the e-shop.</p>
+
+                            
                     </div>
                 
                     <div className='gallery-grid grid md:grid-cols-4 gap-6 pb-32'>

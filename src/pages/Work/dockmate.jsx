@@ -52,12 +52,14 @@ function Meezy() {
                     </div>
                     <div className='feature-image pb-12'>
                         <div className='pb-8'><img src={FeatureImg} className='w-full' alt='Iva Tsaneva logo' /></div>
-                        <div className='website-link text-center'><span className='block text-s font-light'>Link to the project:</span><a href="https://dileti.com/" target="_blank" className='inline-block text-base text-[1.5rem]'>www.dileti.com</a> </div>
+                        <div className='website-link text-center'><span className='block text-s font-light'>Link to the project:</span><a href="https://dockmate.eu/" target="_blank" className='inline-block text-base text-[1.5rem]'>dockmate.eu</a> </div>
                     </div>
                     <div className='project-desc text-base text-center max-w-screen-md mx-auto pb-20 text-sm leading-7'>
-                        <p className="pb-5">Dockmate® is a Belgian company that has been in business worldwide since 2012. 
-                            We proudly present the next generation of wireless remote control systems. Dockmate® is the most reliable and accurate wireless remote docking system for your boat, made by boaters for boaters.
-                            </p>
+                        <p className="pb-5">Dockmate® is a Belgian company that has been in business worldwide since 2012. </p>
+                        
+                        <p className="pb-5">They proudly present the next generation of wireless remote control systems. Dockmate® is the most reliable and accurate wireless remote docking system.</p>
+                        <p>In 2022 Dockmate® decided they needed a new vision and rebranding. I took part in this by being responsible for building a new design for their website and the overall development after that.</p>
+
                     </div>
                 
                     <div className='gallery-grid grid md:grid-cols-2 gap-6 pb-32'>

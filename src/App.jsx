@@ -11,13 +11,14 @@ import ElCitadel from './pages/Work/el-citadel'
 import Elixir from './pages/Work/elixir'
 import Rachid from './pages/Work/rachid'
 import Tradiro from './pages/Work/tradiro'
-
+import ScrollToTop from './scrollToTop.js'
 
 function App() {
   
   return (
     <div className="App">
       <Router>
+        <ScrollToTop/>
         <Header/>
         <Routes>
           <Route path='/' element={<Home/>}></Route>

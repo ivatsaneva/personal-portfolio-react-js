@@ -60,9 +60,10 @@ function Meezy() {
                         <div className='website-link text-center'><span className='block text-s font-light'>Link to the project:</span><a href="https://www.meezy.eu/" target="_blank" className='inline-block text-base text-[1.5rem]'>www.meezy.eu </a> </div>
                     </div>
                     <div className='project-desc text-base text-center max-w-screen-md mx-auto pb-20 text-sm leading-7'>
-                        <p>We help ecommerce companies expand business to Europe.
-                            Meezy was founded by a team that has sold on marketplaces for years. That means we know the challenges that sellers face and we understand how to grow your business. We started Meezy because we saw an opportunity to share our knowledge and experience with other companies.
-                            </p>
+                    <p className="pb-5">Meezy helps ecommerce companies expand their business to Europe.</p>
+<p className="pb-5">Meezy was founded by a team that has sold on marketplaces for years. That means they know the challenges that sellers face and they understand how to grow a business. They started Meezy because they saw an opportunity to share their knowledge and experience with other companies. </p>
+<p className="pb-5">I participated in several meetings with the founder of Meezy, where it was understood that they wanted to prepare a complete branding for their company. I took over the design part of their website and the overall  development.</p>
+
                     </div>
                 
                     <div className='gallery-grid grid md:grid-cols-3 gap-6 pb-32'>

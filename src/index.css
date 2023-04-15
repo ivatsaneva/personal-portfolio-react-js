@@ -48,11 +48,12 @@ body{color:#000; background:#fff;}
 
 /*INTRO SECTION*/
 .entry-content-intro .name {font-size: 7rem; line-height: 7rem;}
-.long-desc {max-width: 650px;}
+.long-desc {max-width: 920px;}
+.long-desc p {padding-bottom: 20px;}
 
 .entry-content-about .image-container::after {content: ''; height: 300px; width: 300px; position: absolute; left: -30px; bottom: -30px; display: block; background: #FDC385; z-index: -1;}
 
-.about-info-container button.flex {border-bottom: 1.6px solid #000; margin-bottom: 18px; width: 100%;}
+.about-info-container button.flex {border-bottom: 1.6px solid #000; margin-bottom: 5px; width: 100%;}
 .about-info-container button.flex.rotate-45 {transform: rotate(-45deg);}
 .about-info-container .accordion-content ul li,
 .skills-listing ul li {position: relative; }

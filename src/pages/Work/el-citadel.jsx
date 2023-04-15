@@ -56,7 +56,11 @@ function Meezy() {
                         <div className='website-link text-center'><span className='block text-s font-light'>Link to the project:</span><a href="https://elcitadel.be/" target="_blank" className='inline-block text-base text-[1.5rem]'>elcitadel.be</a> </div>
                     </div>
                     <div className='project-desc text-base text-center max-w-screen-md mx-auto pb-20 text-sm leading-7'>
-                        <p>El Citadel invests in premium infrastructure for padel players who consider the social aspect as important as the sporting aspect. We also want to be a 'connecting hub' for everyone from the neighborhood who wants to participate in the activities in and around our center. That is why we also invest in a cozy catering facility so that everyone can share a snack and drink after exercise. A padel center bustling with life, that's our dream!</p>
+                    <p className="pb-5"> Citadel invests in premium infrastructure for padel players who consider the social aspect as important as the sporting aspect. They also want to be a 'connecting hub' for everyone from the neighborhood who wants to participate in the activities in and around our center. </p>
+
+                    <p>Starting from scratch, I was involved in building their website. I built the vision of their website and took over the overall development after that.
+                    Elixir</p>
+
                     </div>
                 
                     <div className='gallery-grid grid md:grid-cols-3 gap-6 pb-32'>
